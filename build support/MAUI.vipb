@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-05 14:49:38" Modified_Date="2020-05-12 21:21:49" Creator="Joseph Albro" Comments="" ID="19fcd97225961d7200fa472676de0f02">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-05 14:49:38" Modified_Date="2020-05-13 12:36:16" Creator="Joseph Albro" Comments="" ID="f179f873f17718a6128dd6ee4736d2c9">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_MAUI</Package_File_Name>
-    <Library_Version>1.0.0.20</Library_Version>
+    <Library_Version>1.0.0.22</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -11,18 +11,19 @@
     <Package_LabVIEW_Version>16.0</Package_LabVIEW_Version>
     <Community_Edition>false</Community_Edition>
     <Package_Icon>00000CFC002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00B2B2B900010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FCFCFD00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00B2B2B900010000000000100000001000000002000000240024002400240000002900000012000000020000000D0080808A00010000000000100000001000000002000100230023002300230001001D00000C1800000C00000200020022002200180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C00006C00006C0000CCCCFF6C0000CCCCFFCCCCFF6C00006C00006C0000CCCCFF6C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C00006C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C00006C0000CCCCFF6C00006C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF</Package_Icon>
-    <Product_Name>MAUI</Product_Name>
+    <Product_Name>SMO.UI.MAUI</Product_Name>
     <Was_Built>true</Was_Built>
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
+      <External_Dependencies>jki_statemachineobjects &gt;= 1.3.0.56</External_Dependencies>
+      <External_Dependencies>levylab_lib_embedded_smo_ui &gt;= 1.0.0.12</External_Dependencies>
       <Additional_External_Dependencies>jki_smo_templates &gt;=1.4.0.15</Additional_External_Dependencies>
-      <Additional_External_Dependencies>jki_statemachineobjects &gt;=1.3.0.56</Additional_External_Dependencies>
-      <Additional_External_Dependencies>levylab_lib_embedded_smo_ui &gt;=1.0.0.10</Additional_External_Dependencies>
       <Additional_External_Dependencies>levylab_lib_smo_embeddedui &gt;=1.0.0.7</Additional_External_Dependencies>
       <Additional_External_Dependencies>national_instruments_lib_hidden_gems_in_vi_lib &gt;=1.0.0.10</Additional_External_Dependencies>
-      <Additional_External_Dependencies>oglib_appcontrol &gt;=4.1.0.7</Additional_External_Dependencies>
+      <Direct_Dependencies>jki_statemachineobjects-1.3.0.56</Direct_Dependencies>
+      <Direct_Dependencies>levylab_lib_embedded_smo_ui-1.0.0.12</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -39,7 +40,8 @@
       <Copyright/>
       <Packager/>
       <URL>https://github.com/levylabpitt/Embedded-Main-SMO</URL>
-      <Release_Notes>Fixed Dependency Hell</Release_Notes>
+      <Release_Notes>Changed Names
+Fixed dependencies on old names of Embedded Engine and Embedded Template</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -256,12 +258,12 @@
       <Custom_Category_Name/>
       <Custom_Category_Icon>000004B0002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000022C000001F8000000040007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Custom_Category_Icon>
       <Controls_Palette_Information>
-        <Virtual_Palette_Base_Path/>
+        <Virtual_Palette_Base_Path>Controls</Virtual_Palette_Base_Path>
         <Palette_Disk_Base_Path>&lt;menus&gt;\Controls</Palette_Disk_Base_Path>
         <Syncing_MNU_file/>
       </Controls_Palette_Information>
       <Functions_Palette_Information>
-        <Virtual_Palette_Base_Path/>
+        <Virtual_Palette_Base_Path>Functions</Virtual_Palette_Base_Path>
         <Palette_Disk_Base_Path>&lt;menus&gt;\Categories</Palette_Disk_Base_Path>
         <Syncing_MNU_file/>
       </Functions_Palette_Information>
@@ -271,6 +273,25 @@
     </Palette_Sets>
     <Palette_Sets>
       <Palette_Set_Name>1.0.0.18</Palette_Set_Name>
+      <Use_Custom_Category>false</Use_Custom_Category>
+      <Custom_Category_Name/>
+      <Custom_Category_Icon>000004B0002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000022C000001F8000000040007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Custom_Category_Icon>
+      <Controls_Palette_Information>
+        <Virtual_Palette_Base_Path>Controls</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;menus&gt;\Controls</Palette_Disk_Base_Path>
+        <Syncing_MNU_file/>
+      </Controls_Palette_Information>
+      <Functions_Palette_Information>
+        <Virtual_Palette_Base_Path>Functions</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;menus&gt;\Categories</Palette_Disk_Base_Path>
+        <Syncing_MNU_file/>
+      </Functions_Palette_Information>
+      <Apply_Short_Names_to_VI_Titles>false</Apply_Short_Names_to_VI_Titles>
+      <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
+      <Library_or_Class_Nmae/>
+    </Palette_Sets>
+    <Palette_Sets>
+      <Palette_Set_Name>1.0.0.20</Palette_Set_Name>
       <Use_Custom_Category>false</Use_Custom_Category>
       <Custom_Category_Name/>
       <Custom_Category_Icon>000004B0002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000022C000001F8000000040007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Custom_Category_Icon>
@@ -395,20 +416,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.TestLauncher.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\MAUI.TestLauncher.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -420,7 +427,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2E9605BBDD1043C31A9CFCCB81D1A30</GUID>
+      <GUID>F314A8743FC6EB2525877C131876D646</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -472,20 +479,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -497,21 +490,7 @@
         <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>5A68FE91B342C4285E50D6F19AC83861</GUID>
+      <GUID>461CDF79F1FE92B64D54FDD73E0FC366</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -535,20 +514,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeLeftSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeLeftSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>ChangeRightSubpanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -558,20 +523,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Methods (Framework)\ChangeRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GreyLeftRing.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\GreyLeftRing.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -588,7 +539,7 @@
         <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>13CA1436CF6D5A9B1AB5479055EE39F2</GUID>
+      <GUID>2C30E4BFFB930B203543F47C6707ED20</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -707,7 +658,7 @@
         <Path>..\lvsrc\Methods (Overrides)\onStop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>220A1F6E0352C2E786BE578B08D86E61</GUID>
+      <GUID>071EF14129F62FD0AA55A47B2A88571C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -731,20 +682,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetEmbedded.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -754,20 +691,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPrivateEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetPrivateEvents.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -787,20 +710,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.ReadyForInfo.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.ReadyForInfo.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.SetEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -810,20 +719,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.SetEmbedded.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetLeftData.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -840,7 +735,7 @@
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B9F5FAA90A35334C37E2671EDCE81CB4</GUID>
+      <GUID>A8CC7336E94A137B28E736C6EC4712DF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -878,20 +773,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>ReadRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -920,20 +801,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -945,7 +812,7 @@
         <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C116C3141F147F8990FB3CB2F7163DF9</GUID>
+      <GUID>7225D044BDB5F27A0C4A08A24EC62FA1</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -980,7 +847,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D3C04C2A37509804300DE8CCAFFF8D2</GUID>
+      <GUID>C2701304E8EBB94E97B9365994A77FB6</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1060,20 +927,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1083,20 +936,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetRightData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetRightData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1116,20 +955,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetRightData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1139,20 +964,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetRightData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.Update Left Subpanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.Update Left Subpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1183,21 +994,7 @@
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>12250544EFBBBA00C35B8792BE3754FC</GUID>
+      <GUID>B5685B1C4E1EC7788C2D850DBC3B7162</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1290,7 +1087,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0885D3B74544DBEF9C36AEC898B798DA</GUID>
+      <GUID>73921CB6C1472F9CF7D8DEF6DA34A6AB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1325,21 +1122,7 @@
         <Path>MAUI\API\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>9448DE5EEAE2DB6F875FC8F565223BA7</GUID>
+      <GUID>4ED4B0F26C24DFAD8F44112A721B43DD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1363,20 +1146,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1388,7 +1157,7 @@
         <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>315F181789BDC57F765FDBC7BF2F696D</GUID>
+      <GUID>CDE7EBA50E6DCAD25059698DF7D66462</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1451,7 +1220,7 @@
         <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C0BD679D5304B28ED6D69A198B73D0DB</GUID>
+      <GUID>04866555CA3E3D7237B44583D9449054</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1475,20 +1244,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1498,20 +1253,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1528,7 +1269,7 @@
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>77815FC69BD531B19FF37A6A4EF987E6</GUID>
+      <GUID>C70EF306A9776B9BEA4C6F45D498BFB5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1552,20 +1293,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1577,21 +1304,7 @@
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>92CF8D280A4AB9994D07E57189E7E5D3</GUID>
+      <GUID>6BEDFDDB373758653F08B786698DD5B5</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1626,7 +1339,7 @@
         <Path>MAUI\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F7A0CBAAAF4F2289F179CCBF8EF91549</GUID>
+      <GUID>EE388078FDAB2CF094F6C11208A432CB</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1678,20 +1391,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1701,20 +1400,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetRightData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetRightData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -1731,21 +1416,7 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>4B1B1B98E8FD6177B7395D458E43047F</GUID>
+      <GUID>A37D15B8177AA3328778486CCDE00A9B</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1838,7 +1509,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CE650448AA5197B99B2187158B55C9A2</GUID>
+      <GUID>D99FCB4F0401705DE06BEA96106D999A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1876,20 +1547,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1901,7 +1558,7 @@
         <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A9C2ED32AA9FF0F67A784B2E1B5F0541</GUID>
+      <GUID>96AB9BF749DCEA62F9592DDA2DF98D75</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1925,20 +1582,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1950,7 +1593,7 @@
         <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E433FCECD0A8BF5ED45E899E9D65037F</GUID>
+      <GUID>ADC7FDFC33DD573F2256BC0B5FF76D52</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2013,7 +1656,7 @@
         <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA25AFEEA53EA51316FEAA5636864ADD</GUID>
+      <GUID>61CC2BD09ECA435D50D638A198A18D50</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2037,20 +1680,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2060,20 +1689,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2090,7 +1705,7 @@
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4A16BCBD81D54D847C4ABFCA5395957C</GUID>
+      <GUID>EFA080D1C78A3770B304BEEB23F25959</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2114,20 +1729,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2139,21 +1740,7 @@
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>3DA43FA1B4689DD857E036A01974B3CA</GUID>
+      <GUID>127A92B4B16E260D7884178299117CD3</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2188,7 +1775,7 @@
         <Path>MAUI\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9843003B6E56FCFD4D349D45D09CFDB3</GUID>
+      <GUID>26951DDF4ED67B4E1015A0ECBAD2FF2F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2240,20 +1827,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2263,20 +1836,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetRightData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetRightData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2293,21 +1852,7 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>E48B9A99353925237053BBA977625899</GUID>
+      <GUID>FDE3F8EAD5FB8C4952FDA5E977BA1790</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2400,7 +1945,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A6A2C1CA80D508C78EB7702D182FBF44</GUID>
+      <GUID>5D376CA94E8273E23E8A68EEC8527AD2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2438,20 +1983,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2463,7 +1994,7 @@
         <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BB6DCFEF7FAD356A14E3FC6699EA6427</GUID>
+      <GUID>9FE39A8F82F861C81F0E135DCA1BEB4F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2487,20 +2018,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2512,7 +2029,7 @@
         <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>09F80F5BD6017A6489B2F231BC171EDA</GUID>
+      <GUID>9D9518EE466DBE001DB69F99A5342A78</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2575,7 +2092,7 @@
         <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E6BB67C23D1E795AE5719A3B81AFE494</GUID>
+      <GUID>5EE37C6AF9CC2574D3E8F435E4D08DFC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2599,20 +2116,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2622,20 +2125,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2652,7 +2141,7 @@
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3969B9D1E7693B9707CE21FFDE308B6A</GUID>
+      <GUID>BDB53D68B89F4218839BE96698D80C84</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2676,20 +2165,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2701,21 +2176,7 @@
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>52880CBFDD9CF0930250BCB7EEF378B6</GUID>
+      <GUID>11C70AB614D265A861F3B99A3E2FEC70</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2750,7 +2211,7 @@
         <Path>MAUI\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C718934056B4FBFB56DEE4A12AFFF55</GUID>
+      <GUID>9D7FEF06BF72528D54198A5DAA3521E2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2802,20 +2263,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2825,20 +2272,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetRightData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetRightData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2855,21 +2288,7 @@
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>3745DE1B5829E6550FAE0A0FA57FEDC3</GUID>
+      <GUID>6B2F25EC87228B4A07BF160913038963</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2920,21 +2339,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.TestLauncher.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\MAUI.TestLauncher.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>AF5ADDB10AB82434320FF5676578C98A</GUID>
+      <GUID>BBC32C2FF2807EC0266D1703B590FE63</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2986,20 +2391,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3011,21 +2402,7 @@
         <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>37F2CBFAF188333BA56B6568F5E0A212</GUID>
+      <GUID>0FDA8816A3D2ACE7813AFE9D232A6D85</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3063,20 +2440,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>ReadRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3105,20 +2468,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3130,7 +2479,7 @@
         <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>66427C3B689708C6B6FAD2DC032DCF38</GUID>
+      <GUID>789324EE9FBC5C25178F7BE0015F2FE7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -3212,20 +2561,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.TestLauncher.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\MAUI.TestLauncher.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3237,7 +2572,7 @@
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>536FAA0FDEB190A3AF85CD0A1510B97D</GUID>
+      <GUID>47DC7929F482E835381A3B8341E1BD3A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3289,20 +2624,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3314,21 +2635,7 @@
         <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>05D529151FBA498CE5D29814BBC54384</GUID>
+      <GUID>553297E3D71C752BEFE417C9BEF08F43</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3352,20 +2659,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeLeftSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeLeftSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>ChangePanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3375,20 +2668,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Methods (Framework)\ChangePanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeRightSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3408,20 +2687,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdatePanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3433,7 +2698,7 @@
         <Path>..\lvsrc\API\MAUI.UpdatePanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0C4B6C95F34EB86516AE10BCD1D798E1</GUID>
+      <GUID>2278D9B3D6A83E19E4385AF4732FB123</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3552,7 +2817,7 @@
         <Path>..\lvsrc\Methods (Overrides)\onStop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2FCD14890C1BCE4DC3BD9C2C3FD31E4B</GUID>
+      <GUID>8615F3E5B4A0EB6101E79FC486BCECB5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3576,20 +2841,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetEmbedded.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3599,20 +2850,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPanelData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetPanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3632,20 +2869,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.ReadyForInfo.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3655,20 +2878,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.ReadyForInfo.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3688,20 +2897,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetPanelData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetPanelData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.SetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3713,7 +2908,7 @@
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8BC6C802EB910080D39125E55F495A50</GUID>
+      <GUID>36FFA416C56AA597CB2C1CDD03BA6B4E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3779,20 +2974,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteLeftData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3802,20 +2983,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\API\Accessors\WriteLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3832,21 +2999,7 @@
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>1BED9127021A335AF6F769BC454A5FBF</GUID>
+      <GUID>EA6A356605131FB2AA873C24E82CBD3D</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3881,7 +3034,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>137A65A6B7B4BB3C1792F77CFAA553FB</GUID>
+      <GUID>0DB2B8374B0BDAC8B25516A25ABF93F1</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3961,20 +3114,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3984,20 +3123,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetPanelData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetPanelData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4017,20 +3142,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetLeftData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4040,20 +3151,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetPanelData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetPanelData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4073,20 +3170,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.Update Left Subpanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.Update Left Subpanel.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.UpdatePanel.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4096,20 +3179,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdatePanel.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.UpdateRightSubpanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4126,21 +3195,7 @@
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>6A67E24874A2018F8095E9990AC92CD3</GUID>
+      <GUID>0BD45FAA99D9141320B5468385906313</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -4194,20 +3249,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdatePanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4219,7 +3260,7 @@
         <Path>..\lvsrc\API\MAUI.UpdatePanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>884A346AAA57B647FD3B36E61F74776E</GUID>
+      <GUID>538D06DF0D3CC38D56356212BCB2AA19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4257,20 +3298,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>ReadPanelData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4280,20 +3307,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\API\Accessors\ReadPanelData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4313,20 +3326,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WritePanelData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4338,21 +3337,7 @@
         <Path>..\lvsrc\API\Accessors\WritePanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>8AEA45394189FF199EDA5088F8933868</GUID>
+      <GUID>A3ADD655DE7BD92EA11A9473140D42D2</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -4387,7 +3372,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0A7E42AB3D86E9ADA82326851138D9C2</GUID>
+      <GUID>C10867A06B84EEFBD81C84310975D8D2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4467,20 +3452,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4490,20 +3461,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetPanelData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetPanelData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4523,20 +3480,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetLeftData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4546,20 +3489,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetPanelData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetPanelData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4579,20 +3508,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.Update Left Subpanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.Update Left Subpanel.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.UpdatePanel.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4602,20 +3517,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdatePanel.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.UpdateRightSubpanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4632,21 +3533,7 @@
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>41264AD0DF05790D0339FA9931FA1232</GUID>
+      <GUID>67E1A2155423A931DAC908EB7339AF1C</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -4683,7 +3570,7 @@
         <Path>..\lvsrc\API</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5BAE7A104B149E66A134A84C35DAB759</GUID>
+      <GUID>DD991C65949E470F449CB8ACBE197F68</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4735,20 +3622,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.GetPublicEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdatePanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4760,7 +3633,7 @@
         <Path>..\lvsrc\API\MAUI.UpdatePanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>117C259B9D295FA30D1C457545EA50D0</GUID>
+      <GUID>6184F4850140CED2B8366B3AA8A4CE1B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -4837,7 +3710,7 @@
         <Path>..\lvsrc\API\Accessors\WritePanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5FE765622BEEF03F8818D3C71E2F281E</GUID>
+      <GUID>562A40C33CEEAA802E364FB22E0BBDEF</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -4872,7 +3745,7 @@
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8AB88A3F7E9487160054EF15216A5BDA</GUID>
+      <GUID>A3C3DF82FAFBF07EC5E7965CD9E0B264</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4952,20 +3825,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.GetPanelData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -4975,20 +3834,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetPanelData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -5008,7 +3853,737 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.UpdatePanel.ctl</NameSub_Menu_Name>
+        <NameSub_Menu_Name>PublicEvents--Cluster.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>8F22B91E04E560F1BB0A5A3C4F650B4E</GUID>
+    </Controls_Palette_Data>
+  </Library_Palette_Definition>
+  <Library_Palette_Definition>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>-1</Parent_Palette_Index>
+      <Name/>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>6</Width_Col.>
+      </Size>
+      <_256_Color_Icon>00001940002800000C9A00000400000000000020002000080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA0000888888888888000077777777777700005555555555550000444444444444000022222222222200001111111111110000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000717171710000000000000000FFFF000000000071717171717171710000000071717171717100000000000000FFFF000000000071717171717171717171007171717171717171710000000000FFFF000000717171717171717171717171717171717171717171717100000000FFFF000000717171717171717171717171717171717171717171717100000000FFFF007171717171717171717171717171717171717171717171717171000000FFFF0071717171717171000000717171717171713B0000717171717171000000FFFF007171717171000000000000003B3B3B3B3B3B0000000071717171000000FFFF00000000000000000000000000003B3B3B3B000000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B000000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B000000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B3B0000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF002800000C9A00000400000000000020002000080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA00008888888888880000777777777777000055555555555500004444444444440000222222222222000011111111111100000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5C5C5CFF5C5CFFFF5C5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFFFF5CFFFF5C5CFFFF5C5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5CFF5CFF5CFF5C5CFF5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5C5C5CFF5CFFFFFFFF5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5C5C5CFF5CFF5C5CFF5C5CFFFF5C5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>.</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Sub Palette</Type>
+        <Sub_Palette_Index>1</Sub_Palette_Index>
+        <NameSub_Menu_Name>API</NameSub_Menu_Name>
+        <Short_Name>API</Short_Name>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000367002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000000E3000000BD0000000C0007001500180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF007F4CFFAAFFECFFA8FFA8FF007F002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Icon>
+        <Path>..\lvsrc\API</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Sub Palette</Type>
+        <Sub_Palette_Index>2</Sub_Palette_Index>
+        <NameSub_Menu_Name>Methods (Framework)</NameSub_Menu_Name>
+        <Short_Name>Methods (Framework)</Short_Name>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000775002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000025600000222000000030007001D00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000003FA090043FE4D88CFFAE9555BFA895547FA6548DBF0000003F0028000002950000026100080002000F001F00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000007580000079336C9179A555D579255515752354CA700000007002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Icon>
+        <Path>..\lvsrc\Methods (Framework)</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Sub Palette</Type>
+        <Sub_Palette_Index>3</Sub_Palette_Index>
+        <NameSub_Menu_Name>Methods (Overrides)</NameSub_Menu_Name>
+        <Short_Name>Methods (Overrides)</Short_Name>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>0000079F002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000025600000222000000030007001D00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000003FA090043FE4D88CFFAE9555BFA895547FA6548DBF0000003F0028000002BF0000028B00080001000F002000180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000001480004419549B0C9955D255D95512551488D24CD00000001002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Icon>
+        <Path>..\lvsrc\Methods (Overrides)</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Sub Palette</Type>
+        <Sub_Palette_Index>4</Sub_Palette_Index>
+        <NameSub_Menu_Name>Private</NameSub_Menu_Name>
+        <Short_Name>Private</Short_Name>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>0000049B002900000012000000020000000D00FFFFFF000100000000000A000000080000000000200020002800000217000001E3000000050007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000001FFC10041FFAC5365FFC9554FFF895549FF892327FF000001FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Icon>
+        <Path>..\lvsrc\Private</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Process.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Process.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.TestLauncher.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\SMO.UI.MAUI.TestLauncher.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>94C2B33CE9BA3343DE8C1DEBB38E5951</GUID>
+    </Functions_Palette_Data>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>0</Parent_Palette_Index>
+      <Name>API</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>4</Width_Col.>
+      </Size>
+      <_256_Color_Icon>00000367002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000000E3000000BD0000000C0007001500180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF007F4CFFAAFFECFFA8FFA8FF007F002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>API</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Sub Palette</Type>
+        <Sub_Palette_Index>5</Sub_Palette_Index>
+        <NameSub_Menu_Name>Accessors</NameSub_Menu_Name>
+        <Short_Name>Accessors</Short_Name>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000558002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000002D4000002A0000000000007002000180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000040000000A4919933E93B32A6A9208AA1A49B312600000000002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Icon>
+        <Path>..\lvsrc\API\Accessors</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>ArrangeFrontPanel.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\ArrangeFrontPanel.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.GetPublicEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\SMO.UI.MAUI.GetPublicEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.UpdatePanel.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\SMO.UI.MAUI.UpdatePanel.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>B2EB1FF907042CFE41372D567BB65916</GUID>
+    </Functions_Palette_Data>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>0</Parent_Palette_Index>
+      <Name>Methods (Framework)</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>4</Width_Col.>
+      </Size>
+      <_256_Color_Icon>00000775002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000025600000222000000030007001D00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000003FA090043FE4D88CFFAE9555BFA895547FA6548DBF0000003F0028000002950000026100080002000F001F00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000007580000079336C9179A555D579255515752354CA700000007002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>Methods (Framework)</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>ChangePanel.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Framework)\ChangePanel.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>GreyRings.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Framework)\GreyRings.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PopulateRings.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Framework)\PopulateRings.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>F516452117B900B3DDCB2762797288A2</GUID>
+    </Functions_Palette_Data>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>0</Parent_Palette_Index>
+      <Name>Methods (Overrides)</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>2</Height_Row>
+        <Width_Col.>6</Width_Col.>
+      </Size>
+      <_256_Color_Icon>0000079F002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000025600000222000000030007001D00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000003FA090043FE4D88CFFAE9555BFA895547FA6548DBF0000003F0028000002BF0000028B00080001000F002000180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000001480004419549B0C9955D255D95512551488D24CD00000001002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>Methods (Overrides)</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>CreatePrivateEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\CreatePrivateEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>CreatePublicEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\CreatePublicEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>DestroyPrivateEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\DestroyPrivateEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>DestroyPublicEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\DestroyPublicEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>onProcessStarted.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\onProcessStarted.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>onStart.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>onStop.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Methods (Overrides)\onStop.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>30674CF5CF75EA20E2BF504D071FA4A2</GUID>
+    </Functions_Palette_Data>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>0</Parent_Palette_Index>
+      <Name>Private</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>6</Width_Col.>
+      </Size>
+      <_256_Color_Icon>0000049B002900000012000000020000000D00FFFFFF000100000000000A000000080000000000200020002800000217000001E3000000050007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000001FFC10041FFAC5365FFC9554FFF895549FF892327FF000001FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>Private</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.GetEmbedded.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\SMO.UI.MAUI.GetEmbedded.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.GetPanelData.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\SMO.UI.MAUI.GetPanelData.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.GetPrivateEvents.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\SMO.UI.MAUI.GetPrivateEvents.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.ReadyForInfo.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\SMO.UI.MAUI.ReadyForInfo.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.SetEmbedded.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\SMO.UI.MAUI.SetEmbedded.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>SMO.UI.MAUI.SetPanelData.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Private\SMO.UI.MAUI.SetPanelData.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>7D0B07C20B351505E43FF3449855657D</GUID>
+    </Functions_Palette_Data>
+    <Functions_Palette_Data>
+      <Parent_Palette_Index>1</Parent_Palette_Index>
+      <Name>Accessors</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>4</Width_Col.>
+      </Size>
+      <_256_Color_Icon>00000558002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000002D4000002A0000000000007002000180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000000000000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000040000000A4919933E93B32A6A9208AA1A49B312600000000002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>API\Accessors</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>ReadEmbedded.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\Accessors\ReadEmbedded.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>ReadPanelData.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\Accessors\ReadPanelData.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>WritePanelData.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\API\Accessors\WritePanelData.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>716A2B137FAD0EAA6F6846E109AA9A59</GUID>
+    </Functions_Palette_Data>
+    <Controls_Palette_Data>
+      <Parent_Palette_Index>-1</Parent_Palette_Index>
+      <Name/>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>1</Height_Row>
+        <Width_Col.>4</Width_Col.>
+      </Size>
+      <_256_Color_Icon>00001940002800000C9A00000400000000000020002000080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA0000888888888888000077777777777700005555555555550000444444444444000022222222222200001111111111110000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000000000000000000000000000FFFF000000000000000000000000000000000000717171710000000000000000FFFF000000000071717171717171710000000071717171717100000000000000FFFF000000000071717171717171717171007171717171717171710000000000FFFF000000717171717171717171717171717171717171717171717100000000FFFF000000717171717171717171717171717171717171717171717100000000FFFF007171717171717171717171717171717171717171717171717171000000FFFF0071717171717171000000717171717171713B0000717171717171000000FFFF007171717171000000000000003B3B3B3B3B3B0000000071717171000000FFFF00000000000000000000000000003B3B3B3B000000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B000000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B000000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF000000000000000000000000003B3B3B3B3B3B0000000000000000000000FFFF00000000000000000000000000003B3B3B3B3B0000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF002800000C9A00000400000000000020002000080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA00008888888888880000777777777777000055555555555500004444444444440000222222222222000011111111111100000000000000005C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5C5C5CFF5C5CFFFF5C5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFFFF5CFFFF5C5CFFFF5C5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5CFF5CFF5CFF5C5CFF5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5C5C5CFF5CFFFFFFFF5CFF5C5CFF5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5CFF5C5C5CFF5CFF5C5CFF5C5CFFFF5C5CFF5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>.</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Sub Palette</Type>
+        <Sub_Palette_Index>1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Typedefs</NameSub_Menu_Name>
+        <Short_Name>Typedefs</Short_Name>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>0000052E002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000002AA00000276000000010007001F00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000003E00020434AC4648F4EAEAEDB42C8A8874C86669B00000003002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Icon>
+        <Path>..\lvsrc\Typedefs</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>873D7FAED17500455B9648C6DB790142</GUID>
+    </Controls_Palette_Data>
+    <Controls_Palette_Data>
+      <Parent_Palette_Index>0</Parent_Palette_Index>
+      <Name>Typedefs</Name>
+      <View_Format>Icons</View_Format>
+      <Size>
+        <Height_Row>2</Height_Row>
+        <Width_Col.>6</Width_Col.>
+      </Size>
+      <_256_Color_Icon>0000052E002900000012000000020000000D00FFFFFF000100000000000A0000000800000000002000200028000002AA00000276000000010007001F00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000003E00020434AC4648F4EAEAEDB42C8A8874C86669B00000003002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</_256_Color_Icon>
+      <BW_Color_Icon>00000000</BW_Color_Icon>
+      <Help_Info>
+        <Help_Tag/>
+        <Help_File_Path/>
+      </Help_Info>
+      <Description/>
+      <Synchronization_Info>
+        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
+        <Synchronize_Directory_Path>Typedefs</Synchronize_Directory_Path>
+      </Synchronization_Info>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>EmbeddedNotifier.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\EmbeddedNotifier.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PanelData.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PanelData.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PanelDataNotifier.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PanelDataNotifier.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--Cluster.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--Cluster.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--SMO.UI.MAUI.GetEmbedded.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.MAUI.GetEmbedded.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--SMO.UI.MAUI.GetPanelData.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>6</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.MAUI.GetPanelData.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--SMO.UI.MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.MAUI.SetEmbedded.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--SMO.UI.MAUI.SetPanelData.ctl</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.MAUI.SetPanelData.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>PrivateEvents--SMO.UI.MAUI.UpdatePanel.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -5016,7 +4591,7 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdatePanel.ctl</Path>
+        <Path>..\lvsrc\Typedefs\PrivateEvents--SMO.UI.MAUI.UpdatePanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -5036,7 +4611,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PublicEvents--MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
+        <NameSub_Menu_Name>PublicEvents--SMO.UI.MAUI.ReadyForInfo .ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -5044,10 +4619,10 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PublicEvents--MAUI.ReadyForInfo .ctl</Path>
+        <Path>..\lvsrc\Typedefs\PublicEvents--SMO.UI.MAUI.ReadyForInfo .ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0EF7BAEA6D293BE639E43380557F5B55</GUID>
+      <GUID>8009ED48972FCD2361D2B8DE0CB6FEF8</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
