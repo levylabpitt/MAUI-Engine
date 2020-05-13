@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-05 14:49:38" Modified_Date="2020-05-13 12:36:16" Creator="Joseph Albro" Comments="" ID="f179f873f17718a6128dd6ee4736d2c9">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2020-05-05 14:49:38" Modified_Date="2020-05-13 13:50:25" Creator="Joseph Albro" Comments="" ID="53ec00ccb491219f303d09067f6eb3c5">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_MAUI</Package_File_Name>
-    <Library_Version>1.0.0.22</Library_Version>
+    <Library_Version>1.0.0.23</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -19,9 +19,7 @@
     <Package_Dependencies>
       <External_Dependencies>jki_statemachineobjects &gt;= 1.3.0.56</External_Dependencies>
       <External_Dependencies>levylab_lib_embedded_smo_ui &gt;= 1.0.0.12</External_Dependencies>
-      <Additional_External_Dependencies>jki_smo_templates &gt;=1.4.0.15</Additional_External_Dependencies>
-      <Additional_External_Dependencies>levylab_lib_smo_embeddedui &gt;=1.0.0.7</Additional_External_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_hidden_gems_in_vi_lib &gt;=1.0.0.10</Additional_External_Dependencies>
+      <Additional_External_Dependencies>levylab_lib_smo_embeddedui &gt;=1.0.0.10</Additional_External_Dependencies>
       <Direct_Dependencies>jki_statemachineobjects-1.3.0.56</Direct_Dependencies>
       <Direct_Dependencies>levylab_lib_embedded_smo_ui-1.0.0.12</Direct_Dependencies>
     </Package_Dependencies>
@@ -296,12 +294,12 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Custom_Category_Name/>
       <Custom_Category_Icon>000004B0002900000012000000020000000D00FFFFFF000100000000000A00000008000000000020002000280000022C000001F8000000040007001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFF000000000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF002900000012000000020000000D00CCCCFF000100000000000A00000008001900000020002000280000022C000001F8001900040020001C00180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFF6C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C00006C0000FFFFFF6C00006C0000FFFFFFFFFFFF6C0000FFFFFFFFFFFFFFFFFF6C0000FFFFFFFFFFFF6C00006C0000FFFFFF6C0000FFFFFF6C0000FFFFFF6C00006C0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FF9AAA26FF92AA55FF9ABA76FF939255FFD91356FF000000FF</Custom_Category_Icon>
       <Controls_Palette_Information>
-        <Virtual_Palette_Base_Path/>
+        <Virtual_Palette_Base_Path>Controls</Virtual_Palette_Base_Path>
         <Palette_Disk_Base_Path>&lt;menus&gt;\Controls</Palette_Disk_Base_Path>
         <Syncing_MNU_file/>
       </Controls_Palette_Information>
       <Functions_Palette_Information>
-        <Virtual_Palette_Base_Path/>
+        <Virtual_Palette_Base_Path>Functions</Virtual_Palette_Base_Path>
         <Palette_Disk_Base_Path>&lt;menus&gt;\Categories</Palette_Disk_Base_Path>
         <Syncing_MNU_file/>
       </Functions_Palette_Information>
@@ -427,7 +425,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F314A8743FC6EB2525877C131876D646</GUID>
+      <GUID>8BB138EE7D0FA1866753E2FCF760EDEF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -476,21 +474,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\ArrangeFrontPanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>461CDF79F1FE92B64D54FDD73E0FC366</GUID>
+      <GUID>8D29A0A6A0FB192EDFF19F3A73B454A8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -514,20 +498,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ChangeRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\ChangeRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -539,7 +509,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C30E4BFFB930B203543F47C6707ED20</GUID>
+      <GUID>B967961C534314EB4801FA2E9AF58EC4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -658,7 +628,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Overrides)\onStop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>071EF14129F62FD0AA55A47B2A88571C</GUID>
+      <GUID>B0315AC9AE20EF58815A3CE60894AA4C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -682,20 +652,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -705,20 +661,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetEmbedded.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -735,7 +677,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A8CC7336E94A137B28E736C6EC4712DF</GUID>
+      <GUID>5B60829F2C9F2E0CD8C1ED962205B3D0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -773,20 +715,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -798,21 +726,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>7225D044BDB5F27A0C4A08A24EC62FA1</GUID>
+      <GUID>379199B5D3343B7829DE62FA8DEA291A</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -847,7 +761,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C2701304E8EBB94E97B9365994A77FB6</GUID>
+      <GUID>0806250D07DCF193E463BDC239A0DF92</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -927,20 +841,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -950,20 +850,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetRightData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetRightData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -994,7 +880,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B5685B1C4E1EC7788C2D850DBC3B7162</GUID>
+      <GUID>C88BACE57D8DB1F0317D08400C77D715</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1087,7 +973,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>73921CB6C1472F9CF7D8DEF6DA34A6AB</GUID>
+      <GUID>EFC68F32B9A80BED73F7FE2647F49320</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1122,7 +1008,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>MAUI\API\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4ED4B0F26C24DFAD8F44112A721B43DD</GUID>
+      <GUID>11330CC61EC06F359AFA26F6CA0F8827</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1143,21 +1029,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Methods (Framework)</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>CDE7EBA50E6DCAD25059698DF7D66462</GUID>
+      <GUID>F132D012413D174BA70E04C78FBD3000</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1220,7 +1092,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04866555CA3E3D7237B44583D9449054</GUID>
+      <GUID>511D01066ED04253282FDBE3B5CA7A8B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1244,20 +1116,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.SetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1269,7 +1127,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C70EF306A9776B9BEA4C6F45D498BFB5</GUID>
+      <GUID>6C5DBB3E3C95A6F4D31B8EBC41869EB2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1304,7 +1162,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6BEDFDDB373758653F08B786698DD5B5</GUID>
+      <GUID>E6E4F5B2228539C9EFCA3BAD68166CAB</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1339,7 +1197,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>MAUI\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EE388078FDAB2CF094F6C11208A432CB</GUID>
+      <GUID>9EF4B298033916807E4162CB2B25A076</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1391,20 +1249,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.UpdateRightSubpanel.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1416,7 +1260,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A37D15B8177AA3328778486CCDE00A9B</GUID>
+      <GUID>B3EEAE3E077B710D26065DD2E63A30CE</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1509,7 +1353,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D99FCB4F0401705DE06BEA96106D999A</GUID>
+      <GUID>540A86834FADF3AC49E6F93D874C0EC0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1544,21 +1388,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>MAUI\API\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>96AB9BF749DCEA62F9592DDA2DF98D75</GUID>
+      <GUID>98B58746EAE3AB49A9F6B44F523C2DC0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1579,21 +1409,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Methods (Framework)</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>ADC7FDFC33DD573F2256BC0B5FF76D52</GUID>
+      <GUID>BD452962B10C51125F48B250BDF8FE7D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1656,7 +1472,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61CC2BD09ECA435D50D638A198A18D50</GUID>
+      <GUID>2ECFF050CC1249D782F179A50728E46A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1680,20 +1496,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.SetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1705,7 +1507,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EFA080D1C78A3770B304BEEB23F25959</GUID>
+      <GUID>AF75B916AD7A49B5F442B4305BC64091</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1740,7 +1542,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>127A92B4B16E260D7884178299117CD3</GUID>
+      <GUID>113F372874B017EC4AA365A7DD334980</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1775,7 +1577,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>MAUI\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>26951DDF4ED67B4E1015A0ECBAD2FF2F</GUID>
+      <GUID>BB2CC64B8E5F0E8EEE001AA3719AE0A8</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1827,20 +1629,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.UpdateRightSubpanel.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -1852,7 +1640,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FDE3F8EAD5FB8C4952FDA5E977BA1790</GUID>
+      <GUID>EA1E201B8C9EC599381F03BD93205325</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -1945,7 +1733,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5D376CA94E8273E23E8A68EEC8527AD2</GUID>
+      <GUID>EF687041909F6E9DF97C8DAD5E139258</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1980,21 +1768,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>MAUI\API\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateRightSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateRightSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>9FE39A8F82F861C81F0E135DCA1BEB4F</GUID>
+      <GUID>43E56AA38EFCB435791C9184EEB822EC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2015,21 +1789,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>Methods (Framework)</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GreyRightRing.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\GreyRightRing.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>9D9518EE466DBE001DB69F99A5342A78</GUID>
+      <GUID>DE1AF2B0C4A8142BBD0A15BE5D1BA856</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2092,7 +1852,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Overrides)\onStart.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5EE37C6AF9CC2574D3E8F435E4D08DFC</GUID>
+      <GUID>DEE3277CBC5C212B12808227D1A8BA87</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2116,20 +1876,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.SetRightData.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2141,7 +1887,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BDB53D68B89F4218839BE96698D80C84</GUID>
+      <GUID>BA505FC986931D7905E75683BEB450E3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2176,7 +1922,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>11C70AB614D265A861F3B99A3E2FEC70</GUID>
+      <GUID>65551FF6AE2A7850230F4FC15CD1DDF7</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2211,7 +1957,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>MAUI\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D7FEF06BF72528D54198A5DAA3521E2</GUID>
+      <GUID>0DE14595F3D7E9E98D845DBFCB6692A9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2263,20 +2009,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetEmbedded.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetEmbedded.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.UpdateRightSubpanel.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2288,7 +2020,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdateRightSubpanel.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6B2F25EC87228B4A07BF160913038963</GUID>
+      <GUID>D46410DFAE77ABAA7ECAE76B0B82D0B6</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2339,7 +2071,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BBC32C2FF2807EC0266D1703B590FE63</GUID>
+      <GUID>630221A659653ED42AE534C65E0C6459</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2388,21 +2120,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\ArrangeFrontPanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>0FDA8816A3D2ACE7813AFE9D232A6D85</GUID>
+      <GUID>42B6C7CA436CF71EAA09099226F13F72</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2440,20 +2158,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ReadRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\ReadRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2465,21 +2169,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>789324EE9FBC5C25178F7BE0015F2FE7</GUID>
+      <GUID>F4836C6D2E327783F27F9D97E0CF61E8</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -2572,7 +2262,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>47DC7929F482E835381A3B8341E1BD3A</GUID>
+      <GUID>01F169FFCFDEE85193EE95E7CDF1FE43</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2621,21 +2311,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\ArrangeFrontPanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdateLeftSubpanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdateLeftSubpanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>553297E3D71C752BEFE417C9BEF08F43</GUID>
+      <GUID>B413C095EB05B2A1242E7830A78CD3AA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2673,20 +2349,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GreyLeftRing.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>5</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Methods (Framework)\GreyLeftRing.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.UpdatePanel.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2698,7 +2360,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\MAUI.UpdatePanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2278D9B3D6A83E19E4385AF4732FB123</GUID>
+      <GUID>EE2CDE0885853AA09CCC63A7B19BCB72</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2817,7 +2479,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Overrides)\onStop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8615F3E5B4A0EB6101E79FC486BCECB5</GUID>
+      <GUID>B0752D2D7C7E420B7F282EBF5014A244</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2841,20 +2503,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.GetLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.GetLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>MAUI.GetPrivateEvents.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2864,20 +2512,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Private\MAUI.GetPrivateEvents.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.ReadyForInfo.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.ReadyForInfo.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2894,21 +2528,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Private\MAUI.SetLeftData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.SetRightData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Private\MAUI.SetRightData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>36FFA416C56AA597CB2C1CDD03BA6B4E</GUID>
+      <GUID>1C3C1CCC01C738E962F62B151E835DEF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2974,20 +2594,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>WriteLeftData.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\Accessors\WriteLeftData.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>WriteEmbedded.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2999,7 +2605,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WriteEmbedded.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EA6A356605131FB2AA873C24E82CBD3D</GUID>
+      <GUID>D9BF9194C4F06F76C1E52B22E2A42AD0</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3034,7 +2640,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0DB2B8374B0BDAC8B25516A25ABF93F1</GUID>
+      <GUID>BF8A7E2E2EB2372794430AC19B940327</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3114,20 +2720,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.GetRightData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3137,20 +2729,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetRightData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetLeftData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3170,20 +2748,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.UpdatePanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdatePanel.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PublicEvents--Cluster.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3195,7 +2759,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0BD45FAA99D9141320B5468385906313</GUID>
+      <GUID>29DD9D09070D3FA5552D5390B904AAC6</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -3246,21 +2810,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\ArrangeFrontPanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdatePanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdatePanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>538D06DF0D3CC38D56356212BCB2AA19</GUID>
+      <GUID>A0E57F51325CA09304F8A1C1E0C38BF0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3337,7 +2887,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WritePanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A3ADD655DE7BD92EA11A9473140D42D2</GUID>
+      <GUID>5FB731C85DC684EA9AACB9C9BE877928</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3372,7 +2922,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C10867A06B84EEFBD81C84310975D8D2</GUID>
+      <GUID>301900A2CE5024B5C18B1956091AC2D8</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3452,20 +3002,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetLeftData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.GetRightData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3475,20 +3011,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         </Position>
         <Icon>00000000</Icon>
         <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetRightData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.SetLeftData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.SetLeftData.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3508,20 +3030,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.UpdatePanel.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.UpdatePanel.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PublicEvents--Cluster.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3533,7 +3041,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>67E1A2155423A931DAC908EB7339AF1C</GUID>
+      <GUID>668E98EA49DF893921825F15C9DCA289</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -3570,7 +3078,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DD991C65949E470F449CB8ACBE197F68</GUID>
+      <GUID>68AC8465C9B4113FA193F7F188540375</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3619,21 +3127,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\ArrangeFrontPanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>MAUI.UpdatePanel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\API\MAUI.UpdatePanel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>6184F4850140CED2B8366B3AA8A4CE1B</GUID>
+      <GUID>4F056A7175B7737380739ACCB4A6EDE0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3710,7 +3204,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WritePanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>562A40C33CEEAA802E364FB22E0BBDEF</GUID>
+      <GUID>84EF00099F40668F84F5B2CD962EF7EF</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -3745,7 +3239,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A3C3DF82FAFBF07EC5E7965CD9E0B264</GUID>
+      <GUID>CD163C713768BB7D34153B62F2DA4A2A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3825,20 +3319,6 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>PrivateEvents--MAUI.GetPanelData.ctl</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\lvsrc\Typedefs\PrivateEvents--MAUI.GetPanelData.ctl</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>PrivateEvents--MAUI.SetPanelData.ctl</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -3864,7 +3344,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PublicEvents--Cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8F22B91E04E560F1BB0A5A3C4F650B4E</GUID>
+      <GUID>AEC5B82D79DCB2201CFABB7538D16823</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
   <Library_Palette_Definition>
@@ -3971,7 +3451,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\SMO.UI.MAUI.TestLauncher.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>94C2B33CE9BA3343DE8C1DEBB38E5951</GUID>
+      <GUID>288AC53B76693AA23230948CA8DF9BBB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4048,7 +3528,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\SMO.UI.MAUI.UpdatePanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B2EB1FF907042CFE41372D567BB65916</GUID>
+      <GUID>2B66F990930918B2A8DABF31A481E1FC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4111,7 +3591,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Framework)\PopulateRings.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F516452117B900B3DDCB2762797288A2</GUID>
+      <GUID>3CA1B181DFC74E8B9B28160EE6AB69D9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4230,7 +3710,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Methods (Overrides)\onStop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>30674CF5CF75EA20E2BF504D071FA4A2</GUID>
+      <GUID>253AA0A36CA92A36EB35EB24A59ACB66</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4335,7 +3815,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Private\SMO.UI.MAUI.SetPanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7D0B07C20B351505E43FF3449855657D</GUID>
+      <GUID>AAC5ADD1FBC9E72CCD7525208C37FA92</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -4412,7 +3892,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\API\Accessors\WritePanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>716A2B137FAD0EAA6F6846E109AA9A59</GUID>
+      <GUID>8B5CFC97F4A72F4F5ECA1140CC26E515</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -4447,7 +3927,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>873D7FAED17500455B9648C6DB790142</GUID>
+      <GUID>B473E4E04BFBDB51A90E059FAF7DB95E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -4622,7 +4102,7 @@ Fixed dependencies on old names of Embedded Engine and Embedded Template</Releas
         <Path>..\lvsrc\Typedefs\PublicEvents--SMO.UI.MAUI.ReadyForInfo .ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8009ED48972FCD2361D2B8DE0CB6FEF8</GUID>
+      <GUID>C2F5CACDB230602F7C2B3D25FB878D33</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
