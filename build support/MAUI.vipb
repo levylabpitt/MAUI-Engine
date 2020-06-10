@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-05 14:49:38" Modified_Date="2020-06-10 12:53:46" Creator="Joseph Albro" Comments="" ID="cf0ded9572c3ca465caa78afb84327ff">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-05 14:49:38" Modified_Date="2020-06-10 13:40:48" Creator="Joseph Albro" Comments="" ID="22e4f8463a2a55d0a3f2c1f6444d4cc1">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_MAUI</Package_File_Name>
-    <Library_Version>1.1.0.29</Library_Version>
+    <Library_Version>1.1.0.30</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -40,7 +40,8 @@
       <Copyright/>
       <Packager/>
       <URL>https://github.com/levylabpitt/Embedded-Main-SMO</URL>
-      <Release_Notes>Changed the scheme of  the configuration based subpanel location.</Release_Notes>
+      <Release_Notes>Changed the scheme of  the configuration based subpanel location.
+MAUI will generate default panels if the length of panel data is bigger than the length of  subpanels array.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
