@@ -1,0 +1,94 @@
+6/11/2020 3:43:57 PM - PASS - SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.880000EB - 
+6/11/2020 3:43:57 PM - PASS - SMO.lvclass:LaunchProcess.vi:3770003 SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.880000EB - TestNoSubpanels.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -     Test Without Subpanel Configuration - TestNoSubpanels.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Single Loaded as Default
+6/11/2020 3:43:57 PM - PASS -       Panel Name is class name
+6/11/2020 3:43:58 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:58 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Two Subpanels loaded to match number of references
+6/11/2020 3:43:57 PM - PASS -     Default Panels - TestNoSubpanels.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Single Loaded as Default
+6/11/2020 3:43:57 PM - PASS -       Panel Name is class name
+6/11/2020 3:43:58 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:58 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Two Subpanels loaded to match number of references
+6/11/2020 3:43:58 PM - PASS -     Update with Default - TestNoSubpanels.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Single Loaded as Default
+6/11/2020 3:43:57 PM - PASS -       Panel Name is class name
+6/11/2020 3:43:58 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:58 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Two Subpanels loaded to match number of references
+6/11/2020 3:43:58 PM - PASS -     Test Initial Frame Action - TestNoSubpanels.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Single Loaded as Default
+6/11/2020 3:43:57 PM - PASS -       Panel Name is class name
+6/11/2020 3:43:58 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:58 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Two Subpanels loaded to match number of references
+6/11/2020 3:43:58 PM - PASS -     Test Populate Rings - TestNoSubpanels.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Single Loaded as Default
+6/11/2020 3:43:57 PM - PASS -       Panel Name is class name
+6/11/2020 3:43:58 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:58 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:58 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:58 PM - PASS -       Two Subpanels loaded to match number of references
+6/11/2020 3:43:57 PM - PASS - SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.890000D7 - 
+6/11/2020 3:43:57 PM - PASS - SMO.lvclass:LaunchProcess.vi:3770005 SMO.lvclass:LaunchProcess.vi.ACBRProxyCaller.890000D7 - TestDefaultDirectory.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -     Test Default Directory - TestDefaultDirectory.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Ring 2: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Ring 1: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Correct Number?
+6/11/2020 3:43:57 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -     Test Initial Frame Action - TestDefaultDirectory.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Ring 2: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Ring 1: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Correct Number?
+6/11/2020 3:43:57 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -     Test Populate Rings - TestDefaultDirectory.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Ring 2: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Ring 1: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Correct Number?
+6/11/2020 3:43:57 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 2 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -     FrameTest - TestDefaultDirectory.lvclass:Process.vi:5310001
+6/11/2020 3:43:57 PM - PASS -       Ring 2: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Ring 1: Strings are equal to subpanel class names located in folder
+6/11/2020 3:43:57 PM - PASS -       Correct Number?
+6/11/2020 3:43:57 PM - PASS -       Panel 1 is correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Disabled Correctly
+6/11/2020 3:43:57 PM - PASS -       Panel 2 is Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 1 Strings Are Correct
+6/11/2020 3:43:57 PM - PASS -       Ring 2 Strings Are Correct
