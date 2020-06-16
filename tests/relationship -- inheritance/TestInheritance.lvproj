@@ -11,11 +11,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Maui.Test.DefaultDirectory.lvclass" Type="LVClass" URL="../TestDefaultDirectory/Maui.Test.DefaultDirectory.lvclass"/>
 		<Item Name="Panel 1.lvclass" Type="LVClass" URL="../TestDefaultDirectory/Subpanels/Panel 1/Panel 1.lvclass"/>
 		<Item Name="Panel 2.lvclass" Type="LVClass" URL="../TestDefaultDirectory/Subpanels/Panel 2/Panel 2.lvclass"/>
 		<Item Name="RunAllTests.vi" Type="VI" URL="../RunAllTests.vi"/>
 		<Item Name="SMO.UI.MAUI.lvclass" Type="LVClass" URL="../../../lvsrc/SMO.UI.MAUI.lvclass"/>
-		<Item Name="TestDefaultDirectory.lvclass" Type="LVClass" URL="../TestDefaultDirectory/TestDefaultDirectory.lvclass"/>
 		<Item Name="TestNoSubpanels.lvclass" Type="LVClass" URL="../TestInheritance/TestNoSubpanels.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
