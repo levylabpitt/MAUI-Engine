@@ -1,0 +1,8 @@
+[]Create a New Changes Scheme.
+[]Locate the MAUI Default Directory.
+[]Remove framework From editable items in list.
+[]Add basic save and delete functionality.
+[]Add a way to edit the configuration data.
+[]Sync changes from a default location.
+[]Edit an arbitrary file that conforms to the data structure.
+[]Create a new application section
