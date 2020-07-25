@@ -18,11 +18,11 @@
 			<Item Name="Tests" Type="Folder">
 				<Item Name="Set Subpanels" Type="Folder">
 					<Item Name="SMO Array" Type="Folder">
+						<Item Name="Test Set Subpanels-- SMO Array -- Started -- Duplicates.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- SMO Array -- Started -- Duplicates.vi"/>
 						<Item Name="Test Set Subpanels-- SMO Array -- Started -- Unique.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- SMO Array -- Started -- Unique.vi"/>
 						<Item Name="Test Set Subpanels-- SMO Array -- Not Started.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- SMO Array -- Not Started.vi"/>
 						<Item Name="Test Set Subpanels-- SMO Array -- Not Created.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- SMO Array -- Not Created.vi"/>
 						<Item Name="Test Set Subpanels-- SMO Array.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- SMO Array.vi"/>
-						<Item Name="Test Set Subpanels-- SMO Array -- Started -- Duplicates.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- SMO Array -- Started -- Duplicates.vi"/>
 					</Item>
 					<Item Name="Config" Type="Folder">
 						<Item Name="Test Set Subpanels-- Config-- Error Generation.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels-- Config-- Error Generation.vi"/>
@@ -35,10 +35,21 @@
 					</Item>
 					<Item Name="Test Set Subpanels.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels.vi"/>
 				</Item>
+				<Item Name="Set Panels" Type="Folder">
+					<Item Name="Helpers" Type="Folder">
+						<Item Name="Test Helper 1.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Helper/Test Helper 1/Test Helper 1.lvclass"/>
+						<Item Name="Test Helper 2.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Helper/Test Helper 2/Test Helper 2.lvclass"/>
+						<Item Name="Test Helper 3.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Helper/Test Helper 3/Test Helper 3.lvclass"/>
+					</Item>
+					<Item Name="Test.Maui 2.0.Panels.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Test.Maui 2.0.Panels/Test.Maui 2.0.Panels.lvclass"/>
+					<Item Name="TestPanelValueChange.vi" Type="VI" URL="../Maui 2.0/Tests/TestPanelValueChange.vi"/>
+				</Item>
 				<Item Name="Test Maui 2.0.vi" Type="VI" URL="../Maui 2.0/Tests/Test Maui 2.0.vi"/>
 				<Item Name="Playground.vi" Type="VI" URL="../Maui 2.0/Tests/Playground.vi"/>
 			</Item>
 			<Item Name="Maui 2.0.lvclass" Type="LVClass" URL="../Maui 2.0/Maui 2.0/Maui 2.0.lvclass"/>
+			<Item Name="Lifeguard.lvclass" Type="LVClass" URL="../Maui 2.0/Lifeguard/Lifeguard.lvclass"/>
+			<Item Name="Maui Manager.lvclass" Type="LVClass" URL="../Maui 2.0/Maui Manager/Maui Manager.lvclass"/>
 		</Item>
 		<Item Name="Maui" Type="Folder">
 			<Item Name="Tests" Type="Folder"/>
@@ -150,12 +161,6 @@
 				<Item Name="Caraya Interactive Menu.rtm" Type="Document" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/Caraya/menu/Caraya Interactive Menu.rtm"/>
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
-				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
-				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
-				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
-				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
-				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
