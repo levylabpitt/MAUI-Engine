@@ -35,14 +35,17 @@
 					</Item>
 					<Item Name="Test Set Subpanels.vi" Type="VI" URL="../Maui 2.0/Tests/Test Set Subpanels.vi"/>
 				</Item>
-				<Item Name="Set Panels" Type="Folder">
+				<Item Name="Maui Manager" Type="Folder">
 					<Item Name="Helpers" Type="Folder">
 						<Item Name="Test Helper 1.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Helper/Test Helper 1/Test Helper 1.lvclass"/>
 						<Item Name="Test Helper 2.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Helper/Test Helper 2/Test Helper 2.lvclass"/>
 						<Item Name="Test Helper 3.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Helper/Test Helper 3/Test Helper 3.lvclass"/>
+						<Item Name="Reference Provider.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Reference Provider.vi"/>
+						<Item Name="SMO Provider.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/SMO Provider.vi"/>
 					</Item>
-					<Item Name="Test.Maui 2.0.Panels.lvclass" Type="LVClass" URL="../Maui 2.0/Tests/Test.Maui 2.0.Panels/Test.Maui 2.0.Panels.lvclass"/>
-					<Item Name="TestPanelValueChange.vi" Type="VI" URL="../Maui 2.0/Tests/TestPanelValueChange.vi"/>
+					<Item Name="Test Initialize Rings.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Rings.vi"/>
+					<Item Name="Test Initialize Subpanels.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Subpanels.vi"/>
+					<Item Name="Test Initialize Integration.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Integration.vi"/>
 				</Item>
 				<Item Name="Test Maui 2.0.vi" Type="VI" URL="../Maui 2.0/Tests/Test Maui 2.0.vi"/>
 				<Item Name="Playground.vi" Type="VI" URL="../Maui 2.0/Tests/Playground.vi"/>
@@ -492,6 +495,7 @@
 				<Item Name="Get Physical Units from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Physical Units from TD__ogtk.vi"/>
 				<Item Name="Get Physical Units__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Physical Units__ogtk.vi"/>
 				<Item Name="Write INI Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Write INI Cluster__ogtk.vi"/>
+				<Item Name="Wait (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Wait (ms)__ogtk.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
