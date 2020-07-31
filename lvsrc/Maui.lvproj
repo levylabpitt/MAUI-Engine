@@ -44,8 +44,19 @@
 						<Item Name="SMO Provider.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/SMO Provider.vi"/>
 					</Item>
 					<Item Name="Test Initialize Rings.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Rings.vi"/>
-					<Item Name="Test Initialize Subpanels.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Subpanels.vi"/>
 					<Item Name="Test Initialize Integration.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Integration.vi"/>
+				</Item>
+				<Item Name="UI Behavior" Type="Folder">
+					<Item Name="Test.Maui 2.0.Initialize.Plenty.Subpanels.Subpanel 1.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Plenty.Subpanels.Subpanel 1.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Plenty.Subpanels.Subpanel 2.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Plenty.Subpanels.Subpanel 2.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Scarce.Subpanels.Subpanel 1.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Scarce.Subpanels.Subpanel 1.vi"/>
+					<Item Name="Test Initialize Scarce.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test Initialize Scarce.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Scarce.Subpanels.Subpanel 2.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Scarce.Subpanels.Subpanel 2.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Scarce.Rings.Ring 1.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Scarce.Rings.Ring 1.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Scarce.Rings.Ring 2.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Scarce.Rings.Ring 2.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Plenty.Rings.Ring 1.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Plenty.Rings.Ring 1.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Plenty.Rings.Ring 2.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Plenty.Rings.Ring 2.vi"/>
+					<Item Name="Test.Maui 2.0.Initialize.Scarce.Rings.Ring 3.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Initialize.Scarce.Rings.Ring 3.vi"/>
 				</Item>
 				<Item Name="Test Maui 2.0.vi" Type="VI" URL="../Maui 2.0/Tests/Test Maui 2.0.vi"/>
 				<Item Name="Playground.vi" Type="VI" URL="../Maui 2.0/Tests/Playground.vi"/>
@@ -59,6 +70,7 @@
 			<Item Name="SMO.UI.MAUI.lvclass" Type="LVClass" URL="../SMO.UI.MAUI.lvclass"/>
 			<Item Name="Maui.Config.lvclass" Type="LVClass" URL="../Maui.Config/Maui.Config.lvclass"/>
 		</Item>
+		<Item Name="Test.Maui 2.0.Ring Value Change.vi" Type="VI" URL="../Maui 2.0/Tests/MauiManager/Test.Maui 2.0.Ring Value Change.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add State(s) to Queue__jki_lib_state_machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Add State(s) to Queue__jki_lib_state_machine.vi"/>
