@@ -26,8 +26,8 @@
 			<Item Name="MAUI.Editor.lvlps" Type="Document" URL="../Editor/MAUI.Editor.lvlps"/>
 			<Item Name="MAUI.Editor.lvproj" Type="Document" URL="../Editor/MAUI.Editor.lvproj"/>
 		</Item>
-		<Item Name="Maui" Type="Folder">
-			<Item Name="SMO.UI.MAUI.lvclass" Type="LVClass" URL="../Maui 1.0/SMO.UI.MAUI/SMO.UI.MAUI.lvclass"/>
+		<Item Name="MAUI" Type="Folder">
+			<Item Name="MAUI.lvclass" Type="LVClass" URL="../Maui 1.0/SMO.UI.MAUI/MAUI.lvclass"/>
 			<Item Name="Maui.Config.lvclass" Type="LVClass" URL="../Maui 1.0/Maui.Config/Maui.Config.lvclass"/>
 		</Item>
 		<Item Name="Template" Type="Folder">
@@ -550,7 +550,7 @@
 				<Item Name="Get Cluster Element Names__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Cluster Element Names__ogtk.vi"/>
 				<Item Name="Get Cluster Elements TDs__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Cluster Elements TDs__ogtk.vi"/>
 				<Item Name="Read INI Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Read INI Cluster__ogtk.vi"/>
-				<Item Name="SMO.UI.Embedded.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Embedded UI/SMO.UI.Embedded/SMO.UI.Embedded.lvclass"/>
+				<Item Name="Embedded UI.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/LevyLab/Embedded UI/SMO.UI.Embedded/Embedded UI.lvclass"/>
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
 				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
 				<Item Name="Wait (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Wait (ms)__ogtk.vi"/>
