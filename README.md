@@ -18,11 +18,12 @@ It should be noted that the MAUI Engine is just one part of a larger framework t
 
 ![image](https://user-images.githubusercontent.com/26659428/134935633-47db73d5-6cb2-46d2-87d3-692a551d9dae.png)
 
-In order to get started with the MAUI framework, only a working knowledge of the JKI SMO framework is needed. The easiest way is to use the JKI SMO editor to create a SMO.UI.MAUI.Basic from the MAUI Template. Once the template is created, you should have a folder of the same name as the template. The fastest way to get started is to create a subdirectory in this folder named `Subpanels`. Once the subdirectory is created and named, make at least two subpanels from the SMO.UI.Embed.Basic template, having them saved to the aforementioned subdirectory you created. After saving all of the files in the project, you can go ahead and run the "TestLauncher.vi" of the MAUI class object. You should see two VIs embedded in the subpanels, and the corresponding ring controls displaying the class names of those subpanels.
+In order to get started with the MAUI framework, only a working knowledge of the JKI SMO framework is needed. The easiest way is to use the JKI SMO editor to create an SMO from the `MAUI.Basic` Template. Once the template is created, you should have a folder of the same name as the template. The fastest way to get started is to create a subdirectory in this folder named `Subpanels`. Once the subdirectory is created and named, make at least two subpanels from the `MAUI.SubPanel` Template, having them saved to the aforementioned subdirectory you created. After saving all of the files in the project, you can go ahead and run the "TestLauncher.vi" of the MAUI class object. You should see two VIs embedded in the subpanels, and the corresponding ring controls displaying the class names of those subpanels.
 
 ## Dependencies
 JKI State Machine Objects Framework
 JKI SMO Templates (Basic)
+JKI SMO Editor
 OpenG  Application Control Library
 VI Hidden Gems Library
 
