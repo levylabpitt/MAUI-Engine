@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.lvproj binary
+*.lvclass binary
+*.vipb binary
