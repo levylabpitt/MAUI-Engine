@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-05 14:49:38" Modified_Date="2021-09-28 10:28:09" Creator="Joseph Albro" Comments="" ID="ad495e8cd974e37e0b4a5040e4a72822">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-05-05 14:49:38" Modified_Date="2021-09-28 11:31:45" Creator="Joseph Albro" Comments="" ID="a0f07348a604200f0a5d8c4068fec1f0">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_MAUI</Package_File_Name>
-    <Library_Version>1.1.2.34</Library_Version>
+    <Library_Version>1.1.4.36</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -44,7 +44,7 @@
       <Copyright/>
       <Packager>Joe Albro</Packager>
       <URL>https://github.com/levylabpitt/Embedded-Main-SMO</URL>
-      <Release_Notes>- Updated Templates: MAUI.Basic and MAUI.SubPanel are both included as templates</Release_Notes>
+      <Release_Notes>- Update configuration paths from system ApplicationData to User AppData</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -293,7 +293,7 @@
         <Path>..\..\..\..\..\..\Program Files (x86)\National Instruments\LabVIEW 2019\user.lib\LevyLab\Embedded UI\Embedded UI</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B3730B449570F3074393774A601089D</GUID>
+      <GUID>E1E7205DE36C936B90E6F01256FE9549</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -356,7 +356,7 @@
         <Path>..\lvsrc\Maui 1.0\Maui.Config\Private</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>513725F98D346BE672F6313819A75461</GUID>
+      <GUID>377AF83AF4A35A30D0EEEA1AD869CF4E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -475,7 +475,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A85DE1EB73AECA5A0ED3A14F2EBBE80B</GUID>
+      <GUID>272FD69759D768A9FD66DF76BF784EE0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -692,7 +692,7 @@
         <Path>..\lvsrc\Maui 1.0\Maui.Config\Accessors\Maui.Config.WriteSubpanelPaths.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>30A9752F832088C5CF6328EE13C2E876</GUID>
+      <GUID>1B9F4B7515EE82369202BA43D01F66F3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -769,7 +769,7 @@
         <Path>..\lvsrc\Maui 1.0\Maui.Config\API\Maui.Config.ReadFramework.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CA9858F924C44B4DE25B56CA397A1964</GUID>
+      <GUID>0955AB325910C5DD900CE60A0644ACAD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -804,7 +804,7 @@
         <Path>..\lvsrc\Maui 1.0\Maui.Config\Private\Maui.Config.GenerateFrameworkPath.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E9C5413BAE1ACBEB3031B1DDB622ABE5</GUID>
+      <GUID>726FB41F344C4144142EFF5A08D8C6DF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -895,7 +895,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\API\OpenSubpanel.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>022324B5CC5C2545483186D45022F66D</GUID>
+      <GUID>BCAB076F8387352C1C62D546631B2345</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -958,7 +958,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\API 2.0\FindSubpanels.SMOArray.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38BCC8C3055DCE5FEF33204A96D388EF</GUID>
+      <GUID>DC49CDB523FFB6A538B0CEA205C9E7B6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1357,7 +1357,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\Methods (Framework)\WriteForceSubpanelDir.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>40D2BF9C556669ECD1CE2BE313F2D68B</GUID>
+      <GUID>39AF03622C31CFB31065FCDFFDE09956</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1476,7 +1476,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\Methods (Overrides)\onStop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04830D88CE6873BB304E16126BE677F8</GUID>
+      <GUID>2A8B35DC7B403735007BCB0DE3AC1397</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1623,7 +1623,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\Private\MAUI.SetPanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C0C825B63B9E02B649064BDB206FBAC</GUID>
+      <GUID>6F154D552DD37E5DE386AB254E94BE50</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1728,7 +1728,7 @@
         <Path>..\lvsrc\Maui 1.0\SMO.UI.MAUI\API\Accessors\WritePanelData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>725ACEBBA0EE2E1746275D9CC59EE4E5</GUID>
+      <GUID>8713C714B114E67CA7D3D61A4B375E59</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1777,7 +1777,7 @@
         <Path>..\lvsrc\Templates\MAUI.Basic\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>98FA30B506102A05ACB720D61102EAB7</GUID>
+      <GUID>6E4285C8C71BB4146D927375599947BE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1826,7 +1826,7 @@
         <Path>..\lvsrc\Templates\MAUI.SubPanel\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>414A33250D3025F5A043510F72B7A39B</GUID>
+      <GUID>6E3DDFDA378012965E330B2D4FD82D42</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1875,7 +1875,7 @@
         <Path>&lt;user.lib&gt;\LevyLab\Embedded UI\Embedded UI\Process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4EBA7B01E9F0CCF56E9ADDBE320BD90</GUID>
+      <GUID>258FD19A52CCB012871E1D950413A262</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
