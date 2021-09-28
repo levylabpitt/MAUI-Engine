@@ -22,18 +22,17 @@
 			<Item Name="MAUI.Editor" Type="Folder">
 				<Item Name="MAUI.Editor.lvclass" Type="LVClass" URL="../Editor/MAUI.Editor/MAUI.Editor.lvclass"/>
 			</Item>
-			<Item Name="MAUI.Editor.aliases" Type="Document" URL="../Editor/MAUI.Editor.aliases"/>
-			<Item Name="MAUI.Editor.lvlps" Type="Document" URL="../Editor/MAUI.Editor.lvlps"/>
 			<Item Name="MAUI.Editor.lvproj" Type="Document" URL="../Editor/MAUI.Editor.lvproj"/>
 		</Item>
-		<Item Name="MAUI" Type="Folder">
+		<Item Name="MAUI 1.0" Type="Folder">
 			<Item Name="MAUI.lvclass" Type="LVClass" URL="../Maui 1.0/SMO.UI.MAUI/MAUI.lvclass"/>
 			<Item Name="Maui.Config.lvclass" Type="LVClass" URL="../Maui 1.0/Maui.Config/Maui.Config.lvclass"/>
 		</Item>
-		<Item Name="Template" Type="Folder">
-			<Item Name="SMO.UI.MAUI.BasicTemplate.lvclass" Type="LVClass" URL="../Template/SMO.UI.MAUI.BasicTemplate.lvclass"/>
+		<Item Name="Templates" Type="Folder">
+			<Item Name="MAUI.Basic.lvclass" Type="LVClass" URL="../Templates/MAUI.Basic/MAUI.Basic.lvclass"/>
+			<Item Name="MAUI.SubPanel.lvclass" Type="LVClass" URL="../Templates/MAUI.SubPanel/MAUI.SubPanel.lvclass"/>
 		</Item>
-		<Item Name="Maui 2.0" Type="Folder">
+		<Item Name="MAUI 2.0" Type="Folder">
 			<Item Name="Tests" Type="Folder">
 				<Item Name="Set Subpanels" Type="Folder">
 					<Item Name="SMO Array" Type="Folder">
