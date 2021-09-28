@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/26659428/135149157-3796de9d-c5c1-440f-986f-30cf95cbfffd.png)
 
-Note: The MAUI Framework is currently in beta and should be considered unstable.
+*Note: The MAUI Framework is currently in beta and should be considered unstable.*
 
 ## About
 MAUI is dynamically linked, rapid development UI platform based on subpanels and implemented using [JKI's SMOs](https://github.com/JKISoftware/JKI-State-Machine-Objects).
